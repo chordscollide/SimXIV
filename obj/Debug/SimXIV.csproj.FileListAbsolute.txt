@@ -1,0 +1,13 @@
+c:\users\jason\documents\visual studio 2013\Projects\SimXIV\SimXIV\bin\Debug\SimXIV.exe.config
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\SimXIV\SimXIV\obj\Debug\SimXIV.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\SimXIV\SimXIV\obj\Debug\MainWindow.baml
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\SimXIV\SimXIV\obj\Debug\MainWindow.g.cs
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\SimXIV\SimXIV\obj\Debug\App.g.cs
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\SimXIV\SimXIV\obj\Debug\SimXIV_MarkupCompile.cache
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\SimXIV\SimXIV\obj\Debug\SimXIV.g.resources
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\SimXIV\SimXIV\obj\Debug\SimXIV.Properties.Resources.resources
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\SimXIV\SimXIV\obj\Debug\SimXIV.csproj.GenerateResource.Cache
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\SimXIV\SimXIV\bin\Debug\SimXIV.exe
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\SimXIV\SimXIV\bin\Debug\SimXIV.pdb
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\SimXIV\SimXIV\obj\Debug\SimXIV.exe
+C:\Users\Jason\Documents\Visual Studio 2013\Projects\SimXIV\SimXIV\obj\Debug\SimXIV.pdb
